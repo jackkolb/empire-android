@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 211.66666 211.66667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="recruit_button.svg"
+   inkscape:export-filename="/home/jack/Android/Empire/android/assets/images/recruit_button.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="362.03916"
+     inkscape:cy="402.08749"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3206"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:window-width="920"
+     inkscape:window-height="998"
+     inkscape:window-x="970"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-85.333317)">
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2ad4;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path817"
+       cx="105.83333"
+       cy="191.16666"
+       rx="104.86238"
+       ry="104.86239"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g3206">
+      <g
+         id="g3256"
+         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#ff2ad4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 105.83333,106.49998 V 275.83332"
+           id="path821"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:open="true"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2ad4;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3196"
+           sodipodi:type="arc"
+           sodipodi:cx="105.83598"
+           sodipodi:cy="116.70852"
+           sodipodi:rx="15.882174"
+           sodipodi:ry="10.659527"
+           sodipodi:start="0.035167821"
+           sodipodi:end="3.1322276"
+           d="M 121.70834,117.08331 A 15.882174,10.659527 0 0 1 105.63109,127.36716 15.882174,10.659527 0 0 1 89.954506,116.80834" />
+      </g>
+      <g
+         transform="rotate(29.998055,105.55548,191.24608)"
+         id="g3256-6"
+         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#ff2ad4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 105.83333,106.49998 V 275.83332"
+           id="path821-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:open="true"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2ad4;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3196-8"
+           sodipodi:type="arc"
+           sodipodi:cx="105.83598"
+           sodipodi:cy="116.70852"
+           sodipodi:rx="15.882174"
+           sodipodi:ry="10.659527"
+           sodipodi:start="0.035167821"
+           sodipodi:end="3.1322276"
+           d="M 121.70834,117.08331 A 15.882174,10.659527 0 0 1 105.63109,127.36716 15.882174,10.659527 0 0 1 89.954506,116.80834" />
+      </g>
+      <g
+         transform="rotate(-29.035391,105.72186,191.13911)"
+         id="g3256-7"
+         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#ff2ad4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 105.83333,106.49998 V 275.83332"
+           id="path821-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:open="true"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff2ad4;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3196-2"
+           sodipodi:type="arc"
+           sodipodi:cx="105.83598"
+           sodipodi:cy="116.70852"
+           sodipodi:rx="15.882174"
+           sodipodi:ry="10.659527"
+           sodipodi:start="0.035167821"
+           sodipodi:end="3.1322276"
+           d="M 121.70834,117.08331 A 15.882174,10.659527 0 0 1 105.63109,127.36716 15.882174,10.659527 0 0 1 89.954506,116.80834" />
+      </g>
+    </g>
+  </g>
+</svg>

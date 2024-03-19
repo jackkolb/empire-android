@@ -1,0 +1,53 @@
+{
+    "class": "com.jackkolb.empire.EmpireObjects.Map",
+    "name": "basic",
+    "author": "Jack Kolb",
+
+    "province_count": 4,
+
+    "provinces": [
+        {
+            "class": "com.jackkolb.empire.EmpireObjects.Province",
+            "id": 1,
+            "name": "Mechanica",
+            "vertices": [[131,201], [200,329], [330,382], [408, 234], [408,197], [454,152], [460, 87], [447,64], [250,128]],
+            "population": 10000,
+            "economy": 10000,
+            "military": 0,
+            "connections": [2, 3]
+        },
+
+        {
+            "class": "com.jackkolb.empire.EmpireObjects.Province",
+            "id": 2,
+            "name": "Electrica",
+            "vertices": [[330,382], [370,401], [413,403], [456,431], [550,436], [542,406], [573,389], [598,356], [600,323], [587,296], [535,285], [404,235], [374,322]],
+            "population": 10000,
+            "economy": 10000,
+            "military": 0,
+            "connections": [1, 3, 4]
+        },
+
+        {
+            "class": "com.jackkolb.empire.EmpireObjects.Province",
+            "id": 3,
+            "name": "Classica",
+            "vertices": [[404,234],[587,295],[722,281],[782,201],[785,71],[713,37],[596,53],[450,62], [456,153],[409,198]],
+            "population": 10000,
+            "economy": 10000,
+            "military": 0,
+            "connections": [1, 2, 4]
+        },
+
+        {
+            "class": "com.jackkolb.empire.EmpireObjects.Province",
+            "id": 4,
+            "name": "Musica",
+            "vertices": [[550,436],[747,473], [861,450], [921,343], [860,199], [839,110], [786,69], [782,199], [727,281], [585,296], [602,326], [598,357], [545,408]],
+            "population": 10000,
+            "economy": 10000,
+            "military": 0,
+            "connections": [2, 3]
+        }
+    ]
+}

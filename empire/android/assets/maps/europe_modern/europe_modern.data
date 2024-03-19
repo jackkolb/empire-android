@@ -1,0 +1,39 @@
+{
+  "class": "com.jackkolb.empire.EmpireGame",
+  "year": 1045,
+  "players": [
+    {
+      "class": "com.jackkolb.empire.EmpireObjects.Player",
+      "name": "Jack",
+      "id": 0,
+      "money": 5000,
+      "color": "#ff00009f",
+      "image": "jack.png",
+      "provinces": [
+        1
+      ]
+    },
+    {
+      "class": "com.jackkolb.empire.EmpireObjects.Player",
+      "name": "Gracie",
+      "id": 1,
+      "money": 5000,
+      "color": "#00ff009f",
+      "image": "gracie.png",
+      "provinces": [
+        6
+      ]
+    },
+    {
+      "class": "com.jackkolb.empire.EmpireObjects.Player",
+      "name": "Cricket",
+      "id": 2,
+      "money": 5000,
+      "color": "#0000ff9f",
+      "image": "cricket.png",
+      "provinces": [
+        11
+      ]
+    }
+  ]
+}
