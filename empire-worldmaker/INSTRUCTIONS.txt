@@ -1,0 +1,60 @@
+Empire Worldbuilder v1
+(C) Jack Kolb 2021
+
+This short document details how to make a playable game map
+using this tool. The tool is VERY simple! Note that I developed
+it using Java 11.
+
+1. First open a background map image. This is the
+world map that the user sees when playing your map, minus
+the provinces.
+
+> Click "Open Background Image" and select an image
+
+2. If you are starting from scratch, skip this step. If you
+have an existing empire map that you want to work on,
+import it to load it into the worldbuilder.
+
+> Click "Import Map Data" and select a .empiremap file
+
+3. Fill in the meta information for the map. The work name
+and your name as the author.
+
+> Fill in the "Map Data" and "Map Author" fields
+
+4. Now you will create a new province.
+
+> Click the "Add Province" button
+
+5. Draw the boundaries of the province.
+Click the "Set Boundary" button and then click points on
+the map to outline the province area. Use a left click to
+set a snap point, and a right click to set a raw point.
+When you are done, press the escape key. The snap points
+will automatically snap to nearby points from other
+province boundaries, while the raw points will not.
+
+> Click the "Set Boundary" button and plot the boundaries
+
+6. Set the province's connecting provinces which it can
+attack and be attacked by. Click the "Set Connections"
+button and then click provinces to connect to. The
+connected provinces will turn a red color. When done,
+press the escape key.
+
+> Click the "Set Connections" button and select provinces
+
+7. Save the province.
+
+> Click the "Save Province" button
+
+8. Repeat from step (4) to add all the desires provinces.
+
+> Repeat until all provinces are added
+
+9. When all provinces have been added, click the "Export
+Data" button to save the map data as a .empireworld file.
+
+> Click the "Export Data" button.
+
+Enjoy!

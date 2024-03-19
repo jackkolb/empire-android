@@ -20,7 +20,6 @@ I created this app on Archlinux, however it should run cross-platform. Run `./ru
 
 Read the `INSTRUCTIONS.txt` file for using the worldmaker.
 
-### License
+### Notes
 
-This repository is public domain. You are welcome to use this code for any purpose, commercial or non-commercial. I do not plan to maintain this repository nor ever fully complete/publish this game.
-
+I do not plan to maintain this repository, nor ever fully complete/publish this project.
